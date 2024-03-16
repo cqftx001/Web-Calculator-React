@@ -1,4 +1,4 @@
-A easy web calculator with React basics.
+An easy web calculator with React basics.
 
 1. Download the files.
 2. run application with [npm start].
